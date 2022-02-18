@@ -1,0 +1,10 @@
+  Face Recognition
+    
+  1. dlib lib package(version=19.18.0 preferable)
+  2. cmake lib 
+  3. face_recognition module
+  4. numpy module
+
+you can install the above package by using pip
+After installing the above packages and run the code
+
